@@ -35,3 +35,16 @@ body {
 .submit-button:hover, .view-password-button:hover {
     background-color: #0056b3;
 }
+.yatoimg {
+        height:auto;
+        width: 62%;
+        border: 12px solid rgb(152, 255, 255);
+        border-radius: 50%;
+    }
+.yato {
+    text-align: center;
+}
+  body {color:white;
+        font-size: 30px;
+        background:linear-gradient(to bottom right,#2a77f3,#ff00f7);
+    }
