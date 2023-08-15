@@ -4,7 +4,7 @@ function checkPassword() {
     var correctPasswords = ["1potato2icecream.", "1Potato2Icecream.", "1potato2icecream", "potato", "dinesh", "naruto", "iloveyounaruto"];
 
     if (correctPasswords.includes(enteredPassword)) {
-        window.location.href = "your_original_webpage.html"; // Replace with your original webpage URL
+        window.location.href = "https://octobunny1.github.io/nift/index2.html"; // Replace with your original webpage URL
     } else {
         alert("Incorrect password. Please try again.");
     }
