@@ -199,4 +199,6 @@ a {
         padding-bottom: 1%;
         border-radius: 10%;
       }
-      
+      i {
+        color : rgb(255, 0, 179);
+      }
