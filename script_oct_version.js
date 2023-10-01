@@ -5,7 +5,5 @@ document.getElementById("showContentButton").addEventListener("click" , function
 
     if (passwordInput.value === "potato" || passwordInput.value === "1Potato2Icecream." || passwordInput.value === "1potato2icecream." || passwordInput.value === "naruhina") {
         hiddenContent.style.display = "block";
-    } else {
-        alert("Incorrect secret code. Try again.");
-    }
+    } 
 });
