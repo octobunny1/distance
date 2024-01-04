@@ -86,7 +86,8 @@ input[type="password"] {
     margin-top: 15px;
     background-color: #000000;
     color: #00d5ff;
-    font-size: 22px;
+    font-size: 20px;
+    font-family: Arial Narrow, sans-serif;
     border-radius: 2%;
 }
 .pswd {
@@ -109,8 +110,8 @@ input[type="password"] {
 
 .mypap2 {
     text-align: center;
-    padding:16px;
-    font-size: 45px;
+    padding:12px;
+    font-size: 25px;
     background-color: #2a77f3;
     border-radius: 12%;
     border-top-right-radius: 20%;
@@ -122,7 +123,7 @@ input[type="password"] {
 .mypap3 {
     text-align: center;
     padding:12px;
-    font-size: 27px;
+    font-size: 22px;
     background-color: #619eff;
     border-radius: 22%;
     border-top-right-radius: 20%;
